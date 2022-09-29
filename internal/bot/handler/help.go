@@ -35,7 +35,7 @@ func (h *Help) Handle(ctx tb.Context) error {
 	/import 导入 OPML 文件
 	/export 导出 OPML 文件
 	/unsuball 取消所有订阅
-	详细使用方法请看：https://github.com/indes/flowerss-bot
+	详细使用方法请看：https://github.com/nerdneilsfield/flowerss-bot/
 	`
 	return ctx.Send(message)
 }
