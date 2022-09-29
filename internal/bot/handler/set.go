@@ -8,11 +8,11 @@ import (
 
 	tb "gopkg.in/telebot.v3"
 
-	"github.com/indes/flowerss-bot/internal/bot/chat"
-	"github.com/indes/flowerss-bot/internal/bot/session"
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/core"
-	"github.com/indes/flowerss-bot/internal/model"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/chat"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/session"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/core"
+	"github.com/nerdneilsfield/flowerss-bot/internal/model"
 )
 
 type Set struct {

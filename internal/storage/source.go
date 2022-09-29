@@ -6,8 +6,8 @@ import (
 
 	"gorm.io/gorm"
 
-	"github.com/indes/flowerss-bot/internal/log"
-	"github.com/indes/flowerss-bot/internal/model"
+	"github.com/nerdneilsfield/flowerss-bot/internal/log"
+	"github.com/nerdneilsfield/flowerss-bot/internal/model"
 )
 
 type SourceStorageImpl struct {

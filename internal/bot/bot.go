@@ -5,11 +5,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/indes/flowerss-bot/internal/bot/handler"
-	"github.com/indes/flowerss-bot/internal/bot/middleware"
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/core"
-	"github.com/indes/flowerss-bot/pkg/client"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/handler"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/middleware"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/core"
+	"github.com/nerdneilsfield/flowerss-bot/pkg/client"
 
 	"go.uber.org/zap"
 	tb "gopkg.in/telebot.v3"

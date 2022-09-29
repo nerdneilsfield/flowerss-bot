@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/indes/flowerss-bot/internal/bot/message"
-	"github.com/indes/flowerss-bot/internal/bot/session"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/message"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/session"
 
 	"go.uber.org/zap"
 	tb "gopkg.in/telebot.v3"

@@ -9,8 +9,8 @@ import (
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
-	model "github.com/indes/flowerss-bot/internal/model"
-	storage "github.com/indes/flowerss-bot/internal/storage"
+	model "github.com/nerdneilsfield/flowerss-bot/internal/model"
+	storage "github.com/nerdneilsfield/flowerss-bot/internal/storage"
 )
 
 // MockStorage is a mock of Storage interface.

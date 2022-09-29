@@ -5,9 +5,9 @@ import (
 
 	"github.com/SlyMarbo/rss"
 
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/id"
-	"github.com/indes/flowerss-bot/internal/tgraph"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/id"
+	"github.com/nerdneilsfield/flowerss-bot/internal/tgraph"
 )
 
 // Content fetcher content

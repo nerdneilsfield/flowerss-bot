@@ -3,7 +3,7 @@ package handler
 import (
 	tb "gopkg.in/telebot.v3"
 
-	"github.com/indes/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
 )
 
 type Version struct {

@@ -5,7 +5,7 @@ import (
 
 	"gorm.io/gorm"
 
-	"github.com/indes/flowerss-bot/internal/model"
+	"github.com/nerdneilsfield/flowerss-bot/internal/model"
 )
 
 type ContentStorageImpl struct {

@@ -7,8 +7,8 @@ import (
 	"go.uber.org/zap"
 	tb "gopkg.in/telebot.v3"
 
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/model"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/model"
 )
 
 // SendError send error user

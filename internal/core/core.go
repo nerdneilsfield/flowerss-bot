@@ -10,10 +10,10 @@ import (
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/log"
-	"github.com/indes/flowerss-bot/internal/model"
-	"github.com/indes/flowerss-bot/internal/storage"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/log"
+	"github.com/nerdneilsfield/flowerss-bot/internal/model"
+	"github.com/nerdneilsfield/flowerss-bot/internal/storage"
 )
 
 var (

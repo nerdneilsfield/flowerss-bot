@@ -5,7 +5,7 @@ import (
 
 	tb "gopkg.in/telebot.v3"
 
-	"github.com/indes/flowerss-bot/internal/log"
+	"github.com/nerdneilsfield/flowerss-bot/internal/log"
 )
 
 type Start struct {

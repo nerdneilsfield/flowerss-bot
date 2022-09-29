@@ -1,9 +1,10 @@
 package fetch
 
 import (
-	"github.com/SlyMarbo/rss"
-	"github.com/indes/flowerss-bot/pkg/client"
 	"net/http"
+
+	"github.com/SlyMarbo/rss"
+	"github.com/nerdneilsfield/flowerss-bot/pkg/client"
 )
 
 // FetchFunc rss fetch func

@@ -5,8 +5,8 @@ import (
 
 	tb "gopkg.in/telebot.v3"
 
-	"github.com/indes/flowerss-bot/internal/bot/chat"
-	"github.com/indes/flowerss-bot/internal/bot/session"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/chat"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot/session"
 )
 
 const (

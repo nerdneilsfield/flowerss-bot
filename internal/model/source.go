@@ -7,8 +7,8 @@ import (
 	"github.com/SlyMarbo/rss"
 	"github.com/jinzhu/gorm"
 
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/fetch"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/fetch"
 )
 
 type Source struct {

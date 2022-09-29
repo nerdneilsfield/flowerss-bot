@@ -9,11 +9,11 @@ import (
 	"go.uber.org/atomic"
 	"go.uber.org/zap"
 
-	"github.com/indes/flowerss-bot/internal/bot"
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/fetch"
-	"github.com/indes/flowerss-bot/internal/model"
-	"github.com/indes/flowerss-bot/pkg/client"
+	"github.com/nerdneilsfield/flowerss-bot/internal/bot"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/fetch"
+	"github.com/nerdneilsfield/flowerss-bot/internal/model"
+	"github.com/nerdneilsfield/flowerss-bot/pkg/client"
 )
 
 func init() {

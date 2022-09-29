@@ -8,9 +8,9 @@ import (
 	"go.uber.org/zap"
 	"moul.io/zapgorm"
 
-	"github.com/indes/flowerss-bot/internal/config"
-	"github.com/indes/flowerss-bot/internal/log"
-	"github.com/indes/flowerss-bot/pkg/client"
+	"github.com/nerdneilsfield/flowerss-bot/internal/config"
+	"github.com/nerdneilsfield/flowerss-bot/internal/log"
+	"github.com/nerdneilsfield/flowerss-bot/pkg/client"
 )
 
 var db *gorm.DB
